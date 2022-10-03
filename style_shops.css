@@ -1,0 +1,32 @@
+.additBackground {
+    height: 900px;
+}
+
+.bannerImg {
+    height: 320px;
+}
+
+.bannerContent {
+    height: 300px;
+}
+
+.description {
+    width: 1000px;
+    margin-bottom: 0;
+}
+
+.margT {
+    margin-top: 130px;
+}
+
+button {
+    background-color: rgb(225, 100, 51);
+    color: white;
+    padding: 15px 60px;
+    border: 2px solid rgb(225, 100, 51);
+    border-radius: 8px;
+    font-size: 20px;
+    width: 350px;
+    height: 70px;
+    text-align: center;
+}

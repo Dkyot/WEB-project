@@ -1,0 +1,42 @@
+
+.bannerContent div {
+    margin-right: 250px;
+}
+
+.bannerContent img {
+    margin-left: 350px;
+    padding-top: 10px;
+}
+
+button {
+    background-color: rgb(225, 100, 51);
+    color: white;
+    padding: 15px 70px;
+    border: 2px solid rgb(225, 100, 51);
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.mainContent li {
+    font-size: 20px;
+}
+
+.mainBackground {
+    height: 100%;
+    padding-bottom: 350px;
+}
+
+.layerImgMain {
+    margin-top: -280px;
+}
+
+.tImg {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+
+.bannerImg {
+ background-image: url(img/backgroundImg2.png);
+}
+
